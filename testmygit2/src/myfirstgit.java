@@ -7,4 +7,9 @@ public class myfirstgit {
         System.out.println("asdasdasd");
         System.out.println("asdasdasd");
     }
+
+    public void test(){
+        int i=0;
+        i+=10;
+    }
 }
